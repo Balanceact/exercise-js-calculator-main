@@ -31,8 +31,3 @@ while (loop) {
 
 alert(first + " " + operator + " " + second + " = " + result);
 alert("Have a nice day! :)");
-
-
-function add(a, b) {
-    return a + b;
-}
